@@ -1,6 +1,6 @@
-# 🔗 Advanced Linked Lists — Chapter 9
+# 🔗 Advanced Linked Lists — Pertemuan 9
 
-> Implementasi lengkap struktur data lanjutan berbasis Linked List dalam Python, mencakup Doubly Linked List, Circular Linked List, Multi-Linked List, dan aplikasi nyata Text Editor Buffer.
+> Implementasi lengkap struktur data berbasis Linked List dalam Python, mencakup Doubly Linked List, Circular Linked List, Multi-Linked List, dan aplikasi nyata Text Editor Buffer.
 
 ---
 
@@ -481,7 +481,6 @@ Output yang dihasilkan:
 ```
 .
 ├── note_taking_advanced_linked_list.py   # Implementasi lengkap + visualisasi
-├── advanced_linked_list_visualization.png # Output visualisasi
 └── README.md                             # Dokumentasi ini
 ```
 
@@ -489,10 +488,10 @@ Output yang dihasilkan:
 
 ## 📚 Referensi
 
-- *Data Structures & Algorithms Using Python* — Chapter 9: Advanced Linked Lists
+- *Data Structures & Algorithms Using Python* — 9: Advanced Linked Lists
 - [VisuAlgo](https://visualgo.net) — Animasi interaktif struktur data
 - [Python Official Docs](https://docs.python.org) — Referensi bahasa Python
 
 ---
 
-*Dibuat sebagai materi pembelajaran Struktur Data Lanjut.*
+*Dibuat sebagai materi pembelajaran Struktur Data.*

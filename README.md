@@ -11,8 +11,8 @@
 - [Circular Linked List](#-circular-linked-list)
 - [Multi-Linked List](#-multi-linked-list)
 - [Complex Iterators](#-complex-iterators)
-- [Aplikasi: Text Editor Buffer](#-aplikasi-text-editor-buffer)
-- [Latihan Slide 39: Note-Taking App](#-latihan-slide-39-note-taking-app)
+- [Aplikasi: Text Editor Buffer](-aplikasi-text-editor-buffer)
+- [Latihan Slide 39: Note-Taking App](-latihan-slide-39-note-taking-app)
 - [Perbandingan Kompleksitas](#-perbandingan-kompleksitas)
 - [Cara Menjalankan](#-cara-menjalankan)
 
@@ -321,7 +321,7 @@ class _SparseMatrixIterator:
 
 ---
 
-## ✏️ Aplikasi: Text Editor Buffer
+## Aplikasi: Text Editor Buffer
 
 ### Desain: Doubly Linked List of Vectors
 
@@ -361,7 +361,7 @@ def deleteChar(self):
 
 ---
 
-## 🏋️ Latihan Slide 39: Note-Taking App
+## Latihan Slide 39: Note-Taking App
 
 Merancang struktur data untuk aplikasi note-taking yang mendukung:
 

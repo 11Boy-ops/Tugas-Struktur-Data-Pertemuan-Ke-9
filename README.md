@@ -1,4 +1,4 @@
-# 🔗 Advanced Linked Lists — Chapter 9
+# 🔗 Advanced Linked Lists — Pertemuan 9
 
 > Implementasi lengkap struktur data lanjutan berbasis Linked List dalam Python, mencakup Doubly Linked List, Circular Linked List, Multi-Linked List, dan aplikasi nyata Text Editor Buffer.
 
